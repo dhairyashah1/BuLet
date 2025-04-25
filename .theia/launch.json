@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ble_backscatter",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "ble_backscatter",
+                "resourceId": "/ble_backscatter"
+            }
+        }
+    ]
+}
