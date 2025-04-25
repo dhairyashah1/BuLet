@@ -1,6 +1,4 @@
-/**
- * @file main.c
- */
+// BLE baseband implementation
 
 #include <msp430fr5969.h>
 #include <stdint.h>
