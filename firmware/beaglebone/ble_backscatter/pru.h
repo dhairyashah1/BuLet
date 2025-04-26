@@ -2,6 +2,7 @@
 /**********************************************
 * BeagleBone PRU Backscatter
 * BLE advertisements backscatter
+* Adaptation of the code from below:
 * Authors : Ambuj Varshney < ambuj_varshney@it.uu.se >
 * (C) 2016 Uppsala Networked Objects (UNO)
 ************************************************/

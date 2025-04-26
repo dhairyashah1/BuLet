@@ -1,6 +1,7 @@
 /***
    Copyright (c) 2014 dhenke@mythopoeic.org
    This is free software -- see COPYING for details.
+   * Adaptation of the code from below:
 
    example -- demonstrate simple use of AM335x PRU_ICSS by waiting 5s
 
