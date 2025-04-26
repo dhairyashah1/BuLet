@@ -2,4 +2,4 @@
 
 PCB Design Files for BuLET Platform - TDO | Backscatter Tag | MSP430 - Baseband Generator
 
-These are designed using Eagle software. Please install it on your relevant Operatig System.
+These are designed using Eagle software. Please install it on your relevant Operating System.
